@@ -3,7 +3,7 @@
 Front-end developer ReactJS at [Beta Learning](https://www.betalearning.com.br/)
 
 [![Linkedin: andrevesdickow](https://img.shields.io/badge/-andrevesdickow-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/andrevesdickow/)](https://www.linkedin.com/in/andrevesdickow/)
-[![GitHub andreves-dickow](https://img.shields.io/github/followers/andreves-dickow?label=follow&style=social)](https://github.com/andreves-dickow)
+[![GitHub andrevesbeta](https://img.shields.io/github/followers/andrevesbeta?label=follow&style=social)](https://github.com/andrevesbeta)
 
 ## Technologies
 <div style="display: inline_block">
